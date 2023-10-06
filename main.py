@@ -6,7 +6,7 @@ meme = {
     'mantul' : 'mantap betul',
     'gaje' : 'ga jelas'
 }
-
+print('hai, kepo amat sih mau liat app ini... ga tau kepo artinya apa yaudah silahkan pencet enter')
 for i in range (5):
     word = input("Ketik kata yang tidak Kamu mengerti: ")
     if word in meme.keys():
